@@ -91,8 +91,8 @@ main{
 }
 
 /* about section styles */
-.about{
-    padding: 130px 0;
+.about {
+    padding: 130px 150px;
     background-color: #FFF8F3;
     border-radius: 10px;
     margin: 130px 0;
@@ -116,9 +116,19 @@ main{
 .about-info{
     text-align: center;
 }
-.info-title{
+.info-title {
     margin: 0;
+    color: #757575;
+    font-size: 20px;
+    font-weight: normal;
 }
-.info-description{
+.info-description {
     margin-top: 8px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #474747;
+}
+/* what i do styles */
+#what-i-do-description {
+    padding: 0px 150px;
 }
